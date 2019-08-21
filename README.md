@@ -26,5 +26,5 @@
 - Pinged the human
 
 ```
- ...
+    All assets belong to Mojang & Microsoft.
 ```
