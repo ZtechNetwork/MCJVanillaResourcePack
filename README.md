@@ -1,8 +1,17 @@
 # Minecraft: Java Edition Resource Pack
 ## Repository Status
-![GitHub All Releases](https://img.shields.io/github/downloads/ZtechNetwork/MCJVanillaResourcePack/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZtechNetwork/MCJVanillaResourcePack) ![GitHub last commit](https://img.shields.io/github/last-commit/ZtechNetwork/MCJVanillaResourcePack)
+![GitHub All Releases](https://img.shields.io/github/downloads/ZtechNetwork/MCJVanillaResourcePack/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZtechNetwork/MCJVanillaResourcePack?include_prereleases) ![GitHub last commit](https://img.shields.io/github/last-commit/ZtechNetwork/MCJVanillaResourcePack)
 
 ## Game Changelogs
+### Snapshot 19w34a
+- Added Bees
+- Added Bee Nests and Hives
+- Added Honeycomb
+- Added some dispenser functionality
+- Minecraft: Java Edition now requires OpenGL 2.0
+- New function for loot tables called `copy_state`
+- Fixed bugs
+
 ### v1.14.4
 - Fixed bugs
 - Performance improvements
