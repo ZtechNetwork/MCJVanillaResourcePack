@@ -3,6 +3,13 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/ZtechNetwork/MCJVanillaResourcePack/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZtechNetwork/MCJVanillaResourcePack?include_prereleases) ![GitHub last commit](https://img.shields.io/github/last-commit/ZtechNetwork/MCJVanillaResourcePack)
 
 ## Game Changelogs
+### Snapshot 19w35a
+- Bees now try to avoid water
+- Bee Nests are now more rare
+- Bee Nests now won't spawn unless there is air in front of the front side of the Nest
+- If a player tries to sleep in a bed that is occupied by a Villager, the Villager is now kicked out
+- Fixed a few bugs
+
 ### Snapshot 19w34a
 - Added Bees
 - Added Bee Nests and Hives
