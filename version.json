@@ -1,6 +1,7 @@
 {
     "name": "Minecraft: Java Edition",
     "company": "Mojang",
-    "version": "19w35a",
-    "last-updated": "August 28th, 2019"
+    "branch": "snapshot",
+    "version": "19w36a",
+    "last-updated": "September 4th, 2019"
 }
