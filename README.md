@@ -3,6 +3,16 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/ZtechNetwork/MCJVanillaResourcePack/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZtechNetwork/MCJVanillaResourcePack?include_prereleases) ![GitHub last commit](https://img.shields.io/github/last-commit/ZtechNetwork/MCJVanillaResourcePack/snapshot)
 
 ## Game Changelogs
+### Snapshot 19w37a
+#### *Changes:*
+- Item predicate in advancements now makes distinction between actual enchantments and stored enchantments (like ones stored in enchanted books)
+- Blocks that can be manually placed on farmland can now also be pushed onto it by a piston without detroying the farmland
+- Fixed bugs
+#### *Features from other editions that are now in the Java Edition:*
+- Boats as fuel now smelt 6 items in a furnace
+- Campfire can be extinguished with a shovel
+- When breedable mobs in groups spawn naturally they sometimes spawn babies in the groups
+
 ### Snapshot 19w36a
 #### *Changes:*
 - Obfuscation maps are now published with all future releases of the game
