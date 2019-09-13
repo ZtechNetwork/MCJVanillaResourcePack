@@ -12,6 +12,10 @@
 - Boats as fuel now smelt 6 items in a furnace
 - Campfire can be extinguished with a shovel
 - When breedable mobs in groups spawn naturally they sometimes spawn babies in the groups
+#### Advancements
+- Changes in item predicate:
+    - `enchantments` now only matches enchantments on item itself - it no longer can be used for enchanted books
+    - to match contents enchanted book, use `stored_enchantments`
 
 ### Snapshot 19w36a
 #### *Changes:*
