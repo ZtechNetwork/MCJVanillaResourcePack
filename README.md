@@ -2,7 +2,13 @@
 ## Repository Status
 ![GitHub All Releases](https://img.shields.io/github/downloads/ZtechNetwork/MCJVanillaResourcePack/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZtechNetwork/MCJVanillaResourcePack) ![GitHub last commit](https://img.shields.io/github/last-commit/ZtechNetwork/MCJVanillaResourcePack)
 
+## Description
+This repository will contain resources for full-stable releases and pre-releases of Minecraft.
+
 ## Game Changelogs
+### v1.15.0
+- Coming in December...
+
 ### v1.14.4
 - Fixed bugs
 - Performance improvements
